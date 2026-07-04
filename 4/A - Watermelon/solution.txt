@@ -1,0 +1,10 @@
+def watermelon(n):
+    if n<=2:
+        return "NO"
+    elif n%2 ==1:
+        return "NO"
+    
+    else:
+        return "YES"
+i=int(input())
+print(watermelon(i))
