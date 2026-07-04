@@ -1,0 +1,31 @@
+import sys
+ 
+def solve():
+    input = sys.stdin.read
+    data = input().split()
+    
+    t = int(data[0])
+    idx = 1
+    out = []
+    
+    for _ in range(t):
+        n = int(data[idx])
+        a = [int(x) for x in data[idx+1 : idx+1+n]]
+        b = [int(x) for x in data[idx+1+n : idx+1+2*n]]
+        idx += 1 + 2*n
+        
+        # Calculate the sum of maximums
+        total_sum = sum(max(a[i], b[i]) for i in range(n))
+        
+        # Find the maximum possible peak max(a) + sum(b)
+        ans = 0
+        for i in range(n):
+            ans = max(ans, total_sum + min(a[i], b[i]))
+            
+        out.append(str(ans))
+        
+    print('
+'.join(out))
+ 
+if __name__ == '__main__':
+    solve()
