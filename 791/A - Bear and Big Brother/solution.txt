@@ -1,0 +1,9 @@
+def larger(n,m):
+    count=0
+    while n<=m:
+        n=3*n
+        m=2*m
+        count+=1
+    return count
+x,y=map(int,input().split())
+print(larger(x,y))
