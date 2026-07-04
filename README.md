@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 6 | 5 |
+| 7 | 5 |
 
 ---
 
@@ -14,9 +14,9 @@
 
 - [brute force](#brute-force) (1)
 - [greedy](#greedy) (1)
-- [implementation](#implementation) (3)
+- [implementation](#implementation) (4)
 - [math](#math) (2)
-- [strings](#strings) (1)
+- [strings](#strings) (2)
 
 ---
 
@@ -36,6 +36,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [PyPy 3-64](https://github.com/ShrishtiSingh26/Codeforces_Solutions/blob/HEAD/112/A%20-%20Petya%20and%20Strings/solution.txt) |
 | 266A | [Stones on the Table](https://codeforces.com/contest/266/problem/A) | 800 | [PyPy 3-64](https://github.com/ShrishtiSingh26/Codeforces_Solutions/blob/HEAD/266/A%20-%20Stones%20on%20the%20Table/solution.txt) |
 | 282A | [Bit++](https://codeforces.com/contest/282/problem/A) | 800 | [PyPy 3-64](https://github.com/ShrishtiSingh26/Codeforces_Solutions/blob/HEAD/282/A%20-%20Bit%2B%2B/solution.txt) |
 | 791A | [Bear and Big Brother](https://codeforces.com/contest/791/problem/A) | 800 | [PyPy 3-64](https://github.com/ShrishtiSingh26/Codeforces_Solutions/blob/HEAD/791/A%20-%20Bear%20and%20Big%20Brother/solution.txt) |
@@ -52,6 +53,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 71A | [Way Too Long Words](https://codeforces.com/contest/71/problem/A) | 800 | [PyPy 3-64](https://github.com/ShrishtiSingh26/Codeforces_Solutions/blob/HEAD/71/A%20-%20Way%20Too%20Long%20Words/solution.txt) |
+| 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [PyPy 3-64](https://github.com/ShrishtiSingh26/Codeforces_Solutions/blob/HEAD/112/A%20-%20Petya%20and%20Strings/solution.txt) |
 
 ---
 
