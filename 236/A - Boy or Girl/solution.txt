@@ -1,0 +1,15 @@
+def main():
+    # Read the username string from standard input
+    username = input().strip()
+    
+    # Filter out duplicate letters using a set
+    distinct_characters = set(username)
+    
+    # Check if the total count of unique characters is even or odd
+    if len(distinct_characters) % 2 == 0:
+        print("CHAT WITH HER!")
+    else:
+        print("IGNORE HIM!")
+ 
+if __name__ == "__main__":
+    main()
