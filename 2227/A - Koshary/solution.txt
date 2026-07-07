@@ -1,0 +1,32 @@
+import sys
+ 
+def solve():
+    # Read all input from standard input
+    input = sys.stdin.read
+    data = input().split()
+    
+    if not data:
+        return
+    
+    t = int(data[0])
+    results = []
+    
+    # Process each test case
+    idx = 1
+    for _ in range(t):
+        x = int(data[idx])
+        y = int(data[idx+1])
+        idx += 2
+        
+        # If both coordinates are odd, we need two short steps, which is not allowed
+        if x % 2 != 0 and y % 2 != 0:
+            results.append("NO")
+        else:
+            results.append("YES")
+            
+    # Print all results separated by a newline
+    print('
+'.join(results))
+ 
+if __name__ == '__main__':
+    solve()
