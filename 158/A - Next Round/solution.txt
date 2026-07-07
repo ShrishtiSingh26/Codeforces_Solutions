@@ -1,0 +1,18 @@
+# Read n and k from the first line
+n, k = map(int, input().split())
+ 
+# Read the array of scores from the second line
+scores = list(map(int, input().split()))
+ 
+# Identify the score of the k-th place finisher
+# (0-indexed adjustment: k-th place is at index k-1)
+k_score = scores[k - 1]
+ 
+# Count participants who meet both advancement criteria
+advancers = 0
+for score in scores:
+    if score >= k_score and score > 0:
+        advancers += 1
+ 
+# Output the total number of participants advancing
+print(advancers)
