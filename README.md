@@ -6,19 +6,26 @@
 
 | Total Problems | Topics |
 |---|---|
-| 8 | 5 |
+| 9 | 6 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
+- [*special](#special) (1)
 - [brute force](#brute-force) (2)
 - [greedy](#greedy) (1)
-- [implementation](#implementation) (5)
+- [implementation](#implementation) (6)
 - [math](#math) (2)
 - [strings](#strings) (3)
 
 ---
+
+### *special
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [PyPy 3-64](https://github.com/ShrishtiSingh26/Codeforces_Solutions/blob/HEAD/158/A%20-%20Next%20Round/solution.txt) |
 
 ### brute force
 
@@ -38,6 +45,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [PyPy 3-64](https://github.com/ShrishtiSingh26/Codeforces_Solutions/blob/HEAD/112/A%20-%20Petya%20and%20Strings/solution.txt) |
+| 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [PyPy 3-64](https://github.com/ShrishtiSingh26/Codeforces_Solutions/blob/HEAD/158/A%20-%20Next%20Round/solution.txt) |
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [PyPy 3-64](https://github.com/ShrishtiSingh26/Codeforces_Solutions/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.txt) |
 | 266A | [Stones on the Table](https://codeforces.com/contest/266/problem/A) | 800 | [PyPy 3-64](https://github.com/ShrishtiSingh26/Codeforces_Solutions/blob/HEAD/266/A%20-%20Stones%20on%20the%20Table/solution.txt) |
 | 282A | [Bit++](https://codeforces.com/contest/282/problem/A) | 800 | [PyPy 3-64](https://github.com/ShrishtiSingh26/Codeforces_Solutions/blob/HEAD/282/A%20-%20Bit%2B%2B/solution.txt) |
