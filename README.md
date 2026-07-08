@@ -6,15 +6,15 @@
 
 | Total Problems | Topics |
 |---|---|
-| 10 | 6 |
+| 11 | 6 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [*special](#special) (1)
-- [brute force](#brute-force) (2)
-- [greedy](#greedy) (1)
+- [brute force](#brute-force) (3)
+- [greedy](#greedy) (2)
 - [implementation](#implementation) (7)
 - [math](#math) (3)
 - [strings](#strings) (3)
@@ -32,12 +32,14 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [PyPy 3-64](https://github.com/ShrishtiSingh26/Codeforces_Solutions/blob/HEAD/4/A%20-%20Watermelon/solution.txt) |
+| 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [PyPy 3-64](https://github.com/ShrishtiSingh26/Codeforces_Solutions/blob/HEAD/231/A%20-%20Team/solution.txt) |
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [PyPy 3-64](https://github.com/ShrishtiSingh26/Codeforces_Solutions/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.txt) |
 
 ### greedy
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [PyPy 3-64](https://github.com/ShrishtiSingh26/Codeforces_Solutions/blob/HEAD/231/A%20-%20Team/solution.txt) |
 | 2229B | [Absolute Cinema](https://codeforces.com/contest/2229/problem/B) | 800 | [PyPy 3-64](https://github.com/ShrishtiSingh26/Codeforces_Solutions/blob/HEAD/2229/B%20-%20Absolute%20Cinema/solution.txt) |
 
 ### implementation
