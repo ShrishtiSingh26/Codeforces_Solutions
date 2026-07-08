@@ -1,0 +1,8 @@
+s=input()
+x=s.lower()
+vowel="aeiouy"
+new=""
+for i in range(len(x)):
+    if x[i] not in vowel:
+        new=new+"."+x[i]
+print(new)
