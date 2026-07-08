@@ -1,0 +1,7 @@
+s1=input()
+ 
+new=list(map(str,s1.split("+")))
+integer=[int(num) for num in new]
+integer.sort()
+x="+".join(str(num) for num in integer)
+print(x)
