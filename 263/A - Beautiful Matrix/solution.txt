@@ -1,0 +1,16 @@
+# Loop through all 5 rows of the matrix
+for i in range(5):
+    # Read the row and convert elements into integers
+    row = list(map(int, input().split()))
+    
+    # Check if the number 1 is in the current row
+    if 1 in row:
+        # Find the column index of 1
+        j = row.index(1)
+        
+        # Calculate the absolute moves to reach the center (index 2, 2)
+        moves = abs(i - 2) + abs(j - 2)
+        
+        # Print the total number of moves and exit
+        print(moves)
+        break
