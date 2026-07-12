@@ -1,0 +1,5 @@
+# Read input values for m and n
+m, n = map(int, input().split())
+ 
+# Calculate and print the maximum number of dominoes
+print((m * n) // 2)
