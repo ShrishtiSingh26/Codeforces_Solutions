@@ -6,15 +6,16 @@
 
 | Total Problems | Topics |
 |---|---|
-| 17 | 7 |
+| 18 | 8 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [*special](#special) (1)
+- [binary search](#binary-search) (1)
 - [brute force](#brute-force) (3)
-- [greedy](#greedy) (4)
+- [greedy](#greedy) (5)
 - [implementation](#implementation) (11)
 - [math](#math) (5)
 - [sortings](#sortings) (1)
@@ -27,6 +28,12 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [PyPy 3-64](https://github.com/ShrishtiSingh26/Codeforces_Solutions/blob/HEAD/158/A%20-%20Next%20Round/solution.txt) |
+
+### binary search
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2237C | [Duck Surplus](https://codeforces.com/contest/2237/problem/C) | 1000 | [PyPy 3-64](https://github.com/ShrishtiSingh26/Codeforces_Solutions/blob/HEAD/2237/C%20-%20Duck%20Surplus/solution.txt) |
 
 ### brute force
 
@@ -44,6 +51,7 @@
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [PyPy 3-64](https://github.com/ShrishtiSingh26/Codeforces_Solutions/blob/HEAD/231/A%20-%20Team/solution.txt) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [PyPy 3-64](https://github.com/ShrishtiSingh26/Codeforces_Solutions/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.txt) |
 | 2229B | [Absolute Cinema](https://codeforces.com/contest/2229/problem/B) | 800 | [PyPy 3-64](https://github.com/ShrishtiSingh26/Codeforces_Solutions/blob/HEAD/2229/B%20-%20Absolute%20Cinema/solution.txt) |
+| 2237C | [Duck Surplus](https://codeforces.com/contest/2237/problem/C) | 1000 | [PyPy 3-64](https://github.com/ShrishtiSingh26/Codeforces_Solutions/blob/HEAD/2237/C%20-%20Duck%20Surplus/solution.txt) |
 
 ### implementation
 
