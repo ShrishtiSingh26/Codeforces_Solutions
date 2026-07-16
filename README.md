@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 18 | 8 |
+| 19 | 8 |
 
 ---
 
@@ -16,7 +16,7 @@
 - [binary search](#binary-search) (1)
 - [brute force](#brute-force) (3)
 - [greedy](#greedy) (5)
-- [implementation](#implementation) (11)
+- [implementation](#implementation) (12)
 - [math](#math) (5)
 - [sortings](#sortings) (1)
 - [strings](#strings) (6)
@@ -67,6 +67,7 @@
 | 282A | [Bit++](https://codeforces.com/contest/282/problem/A) | 800 | [PyPy 3-64](https://github.com/ShrishtiSingh26/Codeforces_Solutions/blob/HEAD/282/A%20-%20Bit%2B%2B/solution.txt) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [PyPy 3-64](https://github.com/ShrishtiSingh26/Codeforces_Solutions/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.txt) |
 | 791A | [Bear and Big Brother](https://codeforces.com/contest/791/problem/A) | 800 | [PyPy 3-64](https://github.com/ShrishtiSingh26/Codeforces_Solutions/blob/HEAD/791/A%20-%20Bear%20and%20Big%20Brother/solution.txt) |
+| 977A | [Wrong Subtraction](https://codeforces.com/contest/977/problem/A) | 800 | [PyPy 3-64](https://github.com/ShrishtiSingh26/Codeforces_Solutions/blob/HEAD/977/A%20-%20Wrong%20Subtraction/solution.txt) |
 | 2227A | [Koshary](https://codeforces.com/contest/2227/problem/A) | 800 | [PyPy 3-64](https://github.com/ShrishtiSingh26/Codeforces_Solutions/blob/HEAD/2227/A%20-%20Koshary/solution.txt) |
 
 ### math
