@@ -1,0 +1,11 @@
+# Read input values: k (cost of 1st banana), n (initial dollars), w (bananas wanted)
+k, n, w = map(int, input().split())
+ 
+# Calculate total cost using the arithmetic progression sum formula: w * (w + 1) // 2
+total_cost = k * (w * (w + 1)) // 2
+ 
+# Calculate how much money to borrow (cannot be negative)
+money_to_borrow = max(0, total_cost - n)
+ 
+# Print the result
+print(money_to_borrow)
