@@ -1,0 +1,14 @@
+# Read the input string from the user
+s = input()
+ 
+# Count the number of uppercase letters
+upper_count = sum(1 for char in s if char.isupper())
+ 
+# Calculate lowercase letters by subtracting upper_count from total length
+lower_count = len(s) - upper_count
+ 
+# Compare counts and print the result based on the problem statement
+if upper_count > lower_count:
+    print(s.upper())
+else:
+    print(s.lower())
