@@ -1,0 +1,21 @@
+import sys
+n=sys.stdin.read().split()
+m=int(n[0])
+l=[]
+i=1
+for j in range(m):
+    a=int(n[i])
+    b=int(n[i+1])
+    r=int(n[i+2])
+    i+=3
+    for k in range(-r,r+1):
+        x=r**2-k**2
+        if x>=0:
+            y=int(x**0.5)
+            if y**2==x:
+                l.append(f"{a+k} {b+y}")
+                break
+print('
+'.join(l))
+            
+        
